@@ -1,4 +1,4 @@
-* {
+body {
     background-color: bisque;
 }
 
@@ -7,5 +7,17 @@ h1 {
 }
 
 .me {
+    text-align: center;
+}
+
+.nav-list {
+    text-align: center;
+    list-style-type: none;
+    position: relative;
+    padding: 10px;
+}
+
+.nav-list li {
+    display: inline;
     text-align: center;
 }
