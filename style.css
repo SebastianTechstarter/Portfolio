@@ -8,7 +8,8 @@ h1 {
 
 .me {
     text-align: center;
-    border-radius: 20%;
+    border-radius: 13%;
+    box-shadow: inset;
 }
 
 .nav-list {
@@ -30,7 +31,17 @@ h1 {
     font-size: xx-large;
 }
 
-.nav-list li:hover {
-    background-color: brown;
-    color: antiquewhite;
+.info {
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-style: inherit;
+    font-size: 30;
+}
+
+.btn {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn:hover {
+    background-color: red;
+    color:antiquewhite;
 }
