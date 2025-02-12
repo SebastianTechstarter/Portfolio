@@ -9,7 +9,7 @@ h1 {
 .me {
     text-align: center;
     border-radius: 13%;
-    box-shadow: inset;
+    box-shadow: 10px 15px 20px grey;
 }
 
 .nav-list {
