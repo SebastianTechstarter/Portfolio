@@ -39,9 +39,13 @@ h1 {
 
 .btn {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+    color:black;
+    border-radius: 2px;
 }
 
 .btn:hover {
     background-color: red;
     color:antiquewhite;
+    transform: scale(1.1);
 }
