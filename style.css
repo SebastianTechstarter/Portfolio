@@ -2,16 +2,6 @@ body {
     background-color: bisque;
 }
 
-h1 {
-    text-align: center;
-}
-
-.me {
-    text-align: center;
-    border-radius: 13%;
-    box-shadow: 10px 15px 20px grey;
-}
-
 .nav-list {
     background-color: goldenrod;
     width: 100vw;
