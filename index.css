@@ -1,15 +1,19 @@
 .container {
-    display: flex;
     align-items: flex-start;
-    max-width: 800px;
+
     margin: 0 auto;
 }
 .container img {
-    max-width: 250px;
-    height: auto;
     border-radius: 10px;
     margin-right: 20px;
 }
-.info {
-    flex: 1;
+
+.content {
+    display: flex;
+}
+.me { 
+    width: 100%;
+    max-width: 300px;
+    aspect-ratio: 1 / 1;
+    box-shadow: 0 0 10px #222222;
 }
